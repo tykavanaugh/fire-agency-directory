@@ -1,0 +1,11 @@
+
+node_modules/
+__pycache__/
+.vscode/
+.env
+.venv
+key.json
+*.log
+*.pot
+*.pyc
+db.sqlite3
